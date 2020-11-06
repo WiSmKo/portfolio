@@ -1,4 +1,4 @@
-.body{
+body{
     font-family: 'Montserrat', sans-serif;
     font-weight: 200; 
 }
@@ -26,4 +26,8 @@
 
 .letterSpaceEight{
     letter-spacing: 8px;
+}
+
+.halfSize{
+    width: 50%;
 }
