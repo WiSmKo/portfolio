@@ -1,0 +1,29 @@
+.body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200; 
+}
+
+.montserratExtraLight {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+.montserratExtraLightItalic {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.montserratRegular {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.montserratBold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.letterSpaceEight{
+    letter-spacing: 8px;
+}
